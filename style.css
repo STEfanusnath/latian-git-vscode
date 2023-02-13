@@ -1,0 +1,25 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(istockphoto-1202736228-170667a.jpg);
+    
+}
+img{
+    margin-left: 50px;
+}
+h1 {
+    font-weight: 1500;
+    font-size: 100 px; 
+    text-align: center;
+}
+
+h2{
+    font-size: ;
+    text-transform: capitalize;
+}
+table{ 
+    color: rgb(66, 3, 3);
+}
+link{
+    font-size: 20px;
+    margin-left: 50px;
+}
